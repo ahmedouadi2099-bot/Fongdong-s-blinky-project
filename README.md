@@ -1,5 +1,6 @@
 # Fongdong-s-blinky-project
 A led chaser guided project
+
 Hardware :
 
 1)NE555P Timer
@@ -20,6 +21,6 @@ Hardware :
 
 <img width="1005" height="872" alt="Screenshot 2026-03-19 180755" src="https://github.com/user-attachments/assets/a6e46bf4-80c9-4c17-b57f-8f42282ff425" />
 
-Schematics
+Schematics:
 
 <img width="906" height="748" alt="Screenshot 2026-03-19 180831" src="https://github.com/user-attachments/assets/67a079dd-3754-4d64-821a-48b3382be5a1" />
